@@ -15,7 +15,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 9-Jun-2022,Duvesjön 373,"Duvesjön,Kungälvskommun",149+9,5,1604,4900000
 9-Jun-2022,Odlingsgatan 78,"Ytterby,Kungälvskommun",130,5,295,5600000
 8-Jun-2022,Östra gatan 29,"Kungälv,Kungälvskommun",192+128,8,384,8300000
-6-Jun-2022,Duvesjön 369,"Kungälv-Duvesjön,Kungälvskommun",,rum,1198,5050000
+6-Jun-2022,Duvesjön 369,"Kungälv-Duvesjön,Kungälvskommun",NaN,4,1198,5050000
 4-Jun-2022,Tjuvkils huvud 918,"Tjuvkil,Kungälvskommun",60,4,1376,5150000
 3-Jun-2022,Bergåsvägen 10B,"Ytterby,Kungälvskommun",115+78,6,834,5700000
 31-May-2022,Lagvägen 29,"Ytterby,Kungälvskommun",101,4,713,4700000
@@ -99,7 +99,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 3-Jul-2020,Gråstensvägen 16,"Kode,Kungälvskommun",97,4,1381,3650000
 2-Jul-2020,Knaverstad-Ryr 580,"Aröd,Kungälvskommun",158+4,6,1012,3650000
 1-Jul-2020,Pölen 120,"Kungälv-Hålta,Kungälvskommun",138+75,5,812,4800000
-3-Jul-2015,Korsgatan 4 a och b,"MarstrandKoön,Kungälvskommun",,NaN,393,11000000
+3-Jul-2015,Korsgatan 4 a och b,"MarstrandKoön,Kungälvskommun",NaN,NaN,393,11000000
 1-Jul-2015,Flateby 180,"Harestad,Kungälvskommun",119+98,6,5476,3400000
 30-Jun-2015,Bräcke 330,"Kärna,Kungälvskommun",85,4,1188,1700000
 29-Jun-2015,Oskarsbergsgatan 10,"Ytterby-Tega,Kungälv,Kungälvskommun",157,5,784,3200000
@@ -274,7 +274,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 9-Jul-2018,Gunneröd 200,"Lycke,Kungälvskommun",58+25,2,789,2400000
 20-Apr-2021,Gulskärsvägen 21,"Tjuvkil,Kungälvskommun",149+14,6,1512,7400000
 20-Apr-2021,Mårdgatan 4,"Olseröd,Kungälvskommun",124+45,5,1122,7150000
-19-Apr-2021,Lilla Fjellsholmen 22,"LillaFjellsholmen,Kungälvskommun",,rum,406,8900000
+19-Apr-2021,Lilla Fjellsholmen 22,"LillaFjellsholmen,Kungälvskommun",NaN,4,406,8900000
 16-Apr-2021,Lindvägen 8,"Ytterby,Kungälvskommun",244+72,7,1330,7700000
 16-Apr-2021,Stenåldersgatan 41,"Ytterby,Kungälvskommun",120,5,404,5350000
 16-Apr-2021,Harkvägen 335,"Ullstorp,Kungälvskommun",131,4,NaN,4610000
@@ -294,7 +294,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 1-Apr-2021,Häljeröd 106,"Diseröd,Kungälvskommun",120+90,8,1734,3700000
 26-Mar-2021,Domsvägen 7B,"CentraltYtterby,Kungälvskommun",159+62,6,600,5500000
 25-Mar-2021,Grandalen 110,"Duvesjön,Kungälvskommun",65,2,1121,2375000
-25-Mar-2021,Kroken 142,"Harestad,Kungälvskommun",,NaN,1175,3900000
+25-Mar-2021,Kroken 142,"Harestad,Kungälvskommun",NaN,NaN,1175,3900000
 23-Mar-2021,Ekvägen 2,"Ytterby,Kungälvskommun",177+60,7,769,7700000
 22-Mar-2021,Råckeröd 140,"Kärna,Kungälvskommun",66+20,3,2269,3800000
 19-Mar-2021,Nätstigen 7,"Centralt,Kungälvskommun",120,4,299,3900000
@@ -421,7 +421,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 7-Jun-2019,Barlinds väg  7,"Marstrand,Kungälvskommun",90,5,1527,4490000
 7-Jun-2019,Skårby 985,"Bohuslän,Kungälvskommun","165,6",5,1655,4750000
 5-Jun-2019,Brunskär 510,"Kärna,Kungälvskommun",90+15,4,365,4250000
-4-Jun-2019,Kastellegårdsvägen 220,"Kastellegården,Kungälvskommun",,rum,1450,4050000
+4-Jun-2019,Kastellegårdsvägen 220,"Kastellegården,Kungälvskommun",NaN,4,1450,4050000
 29-Sep-2022,Norrmannebo 110,"Romelanda,Kungälvskommun",99,3,1720,2100000
 29-Sep-2022,Heden 220,"Bohuslän,Kungälvskommun",123+77,5,3342,4750000
 28-Sep-2022,Gustavsbergsvägen 16,"Ytterby,Kungälvskommun",105+91,4,1244,5100000
@@ -445,7 +445,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 31-Aug-2022,Tvetgatan 143,"Tveten,Kungälvskommun",93+32,5,186,4200000
 29-Aug-2022,Grandalen 230,"Romelanda,Kungälvskommun",138,6,1718,4200000
 29-Aug-2022,Hammarhöjden 700,"Kode,Kungälvskommun",75,4,1123,1650000
-27-Aug-2022,Holm 241,"Kärna,Kungälvskommun",,rum,1207,5100000
+27-Aug-2022,Holm 241,"Kärna,Kungälvskommun",NaN,5,1207,5100000
 27-Aug-2022,Torsby 270,"Kärna,Kungälvskommun",161+174,8,1915,5735000
 26-Aug-2022,Lerskärsvägen 52,"Tjuvkil,Kungälvskommun",106+49,4,1385,5520000
 24-Aug-2022,Korsgatan 3,"Marstrand,Kungälvskommun",116+30,4,494,9200000
@@ -608,7 +608,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 15-Nov-2021,Vallgatan 3,"Kungälv-Centralt,Kungälvskommun",65+61,5,495,5800000
 12-Nov-2021,Vallby 210,"Kode,Kungälvskommun",70,3,1260,2550000
 12-Nov-2021,Dotorp 470,"Kärna,Kungälvskommun",127,4,18448,6495000
-11-Nov-2021,Prästvägen,"Bohuslän,Kungälvskommun",,NaN,24755,1725000
+11-Nov-2021,Prästvägen,"Bohuslän,Kungälvskommun",NaN,NaN,24755,1725000
 10-Nov-2021,Bremnäs 400,"Lycke,Kungälvskommun",130,4,2562,5800000
 10-Nov-2021,Hammarhöjden 680,"Kode,Kungälvskommun",100,5,1059,3650000
 5-Nov-2021,Stenhålt 124,"Romelanda,Kungälvskommun",163,7,1668,5600000
@@ -645,8 +645,8 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 12-Jul-2017,Prejelvägen 102,"Ullstorp,Kungälvskommun",122+6,5,304,4800000
 11-Jul-2017,Ulvesund 427,"KUNGÄLV-Ulvesund,Kungälvskommun",100+10,5,939,3850000
 11-Jul-2017,Sävstigen 2,"Centralt,Kungälvskommun",121+1,5,534,3800000
-8-Jul-2017,Solberg 455,"Romelanda,Kungälvskommun",,NaN,NaN,2000000
-8-Jul-2017,Solberg 460,"Romelanda,Kungälvskommun",,rum,NaN,3000000
+8-Jul-2017,Solberg 455,"Romelanda,Kungälvskommun",NaN,NaN,NaN,2000000
+8-Jul-2017,Solberg 460,"Romelanda,Kungälvskommun",NaN,5,NaN,3000000
 7-Jul-2017,Nedre Knaverstad 280,"Aröd,Kungälvskommun",99+15,4,2105,3300000
 5-Jul-2017,Oxelvägen 84,"Diseröd,Kungälvskommun",139,5,433,4200000
 28-Jun-2017,Hammarberg 840,"Kode,Kungälvskommun",67,3,1893,1950000
@@ -759,7 +759,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 10-Feb-2020,Täljstensgatan 2,"Stället,Kungälvskommun",70,3,551,3600000
 7-Feb-2020,Rishammar 110,"Kareby,Kungälvskommun",140+19,6,1205,4135000
 6-Feb-2020,Solbräcke 214,"Kungälv,Kungälvskommun",148,4,882,4950000
-5-Feb-2020,Lilla Fjellsholmen 17,"LillaFjellsholmen,Kungälvskommun",,rum,400,6900000
+5-Feb-2020,Lilla Fjellsholmen 17,"LillaFjellsholmen,Kungälvskommun",NaN,5,400,6900000
 3-Feb-2020,Mariebergsvägen 150,"Kungälv,Kungälvskommun",173+86,8,4083,4250000
 2-Feb-2020,Åsebyberg 940,"Kode,Kungälvskommun",138+30,5,57649,4400000
 30-Jan-2020,Jägarvägen 5,"Diseröd,Kungälvskommun",168+8,7,550,3795000
@@ -829,7 +829,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 28-Jun-2020,Enekullsvägen 24,"Ytterby,Kungälvskommun",200+24,7,980,5500000
 26-Jun-2020,Bärnstensvägen 9,"Kode,Kungälvskommun",100+95,5,1547,4000000
 25-Jun-2020,Skårsäng 115,"Kärna,Kungälvskommun",114+13,5,616,4400000
-25-Jun-2020,Över-Restad 164,"Hålta,Kungälvskommun",,rum,1077,4670000
+25-Jun-2020,Över-Restad 164,"Hålta,Kungälvskommun",NaN,6,1077,4670000
 24-Jun-2020,Staby 260,"Staby,Kungälvskommun",115+90,6,1125,2650000
 23-Jun-2020,Lundby 380,"Kareby,Kungälvskommun",140,5,1818,4200000
 23-Jun-2020,Plogvägen 170,"Ullstorp,Kungälvskommun",122,5,266,5125000
@@ -875,7 +875,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 24-Apr-2022,Staby 375,"Kärna,Kungälvskommun",129,6,1558,5400000
 24-Apr-2022,Granvägen 7,"Ytterby,Kungälvskommun",100+54,4,623,5300000
 22-Apr-2022,Årsnäs 460,"Kungälv-Årsnäs,Kungälvskommun",40,3,2393,3600000
-16-Apr-2022,Trankärr 223,"Trankärr,Kungälvskommun",,rum,958,5850000
+16-Apr-2022,Trankärr 223,"Trankärr,Kungälvskommun",NaN,6,958,5850000
 14-Apr-2022,Marieberg 210,"Kungälv,Kungälvskommun",120+34,5,3245,3150000
 14-Apr-2022,Dotorp 260,"Kungälv-Kärna,Kungälvskommun",162+9,6,2003,4775000
 13-Apr-2022,Högalidsgatan 12,"Centraltvidälven,Kungälvskommun",139+72,7,816,6450000
@@ -1111,7 +1111,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 20-Sep-2020,Nereby 340,"Harestad,Kungälvskommun",129,5,1344,2700000
 18-Sep-2020,Länsmansvägen 5,"Ytterby,Kungälvskommun",108+136,5,573,4600000
 17-Sep-2020,Duvesjön 302,"Duvesjön,Kungälvskommun",120+74,4,1506,5615000
-16-Sep-2020,Skårby station 455,"Bohuslän,Kungälvskommun",,NaN,800,3995000
+16-Sep-2020,Skårby station 455,"Bohuslän,Kungälvskommun",NaN,NaN,800,3995000
 16-Sep-2020,Klövergången 6,"Centralt,Kungälvskommun",120,5,402,3440000
 15-Sep-2020,Västerhöjdsvägen 40,"Kärna,Kungälvskommun",107+8,4,274,4100000
 13-Sep-2020,Dösebacka 450,"Diseröd,Kungälvskommun",104+40,5,4320,3520000
@@ -1167,7 +1167,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 22-Dec-2015,Spadvägen 1,"Ullstorp,Kungälvskommun",75+40,3,1236,2970000
 8-Dec-2015,Timmervik 140,"Bohuslän,Kungälvskommun",180+45,7,1119,3695000
 6-Dec-2015,Häljeröd 490,"Bohuslän,Kungälvskommun",205+100,9,4355,4975000
-2-Dec-2015,Näckrosvägen 7,"Kungälv,Kungälvskommun",,NaN,1300,1200000
+2-Dec-2015,Näckrosvägen 7,"Kungälv,Kungälvskommun",NaN,NaN,1300,1200000
 26-Nov-2015,Duvesjön 374,"Duvesjön,Kungälvskommun",110,4,1000,3150000
 26-Nov-2015,Blåsippegatan 3,"Ytterby,Kungälvskommun",182,6,579,4600000
 23-Nov-2015,Heavägen 13,"Lycke,Kungälvskommun",121,4,970,3300000
@@ -1428,7 +1428,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 2-Jun-2019,Hammarberg 860,"Hammarberg,Kungälvskommun",43,3,1017,760000
 31-May-2019,Korpedalsvägen 9,"Aröd,Kungälvskommun",48,4,1317,3100000
 30-May-2019,Kareby kyrkväg 220,"Bohuslän,Kungälvskommun",131+95,6,1498,4275000
-30-May-2019,Lilla Fjellsholmen 58,"LillaFjellsholmen,Kungälvskommun",,rum,431,6100000
+30-May-2019,Lilla Fjellsholmen 58,"LillaFjellsholmen,Kungälvskommun",NaN,4,431,6100000
 29-May-2019,Krappvägen 581,"Bohuslän,Kungälvskommun",121,6,316,5100000
 28-May-2019,Matskärsvägen 14B,"Tjuvkil,Kungälvskommun",145,6,331,4500000
 28-May-2019,Knapegården 126,"Bohuslän,Kungälvskommun",143+40,6,3842,4900000
@@ -1449,7 +1449,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 9-May-2019,Jägersberg 340,"Bohuslän,Kungälvskommun",146+30,5,29613,5750000
 8-May-2019,Kristinedalsgatan 5,"Bohuslän,Kungälvskommun",137+67,5,701,6700000
 6-May-2019,Kyrkeby 290,"Kärna-Harestad,Kungälvskommun",146,5,3580,4510000
-6-May-2019,Vallvägen 12,"Kareby,Kungälvskommun",,rum,2819,8345000
+6-May-2019,Vallvägen 12,"Kareby,Kungälvskommun",NaN,7,2819,8345000
 4-May-2019,Ragnhildsgatan 2,"Centralt,Kungälvskommun",115+53,5,775,4100000
 2-May-2019,Rådalsvägen 25,"Aröd,Kungälvskommun",88,4,1462,2600000
 30-Apr-2019,Prästbol 120,"Kode,Kungälvskommun",98,5,1380,3400000
@@ -1613,7 +1613,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 13-Nov-2019,Grindklykan 9,"Kungälv,Kungälvskommun",121,4,729,3900000
 6-Nov-2019,Täljstensgatan 4,"Ytterby,Kungälvskommun",70+12,3,478,3100000
 6-Nov-2019,Duvesjön 357,"Romelanda,Kungälvskommun",169+60,9,1054,4625000
-1-Nov-2019,,"Kungälv,Kungälvskommun",,NaN,708,1251360
+1-Nov-2019,,"Kungälv,Kungälvskommun",NaN,NaN,708,1251360
 1-Nov-2019,Kulperödsvägen 39,"Gullbringa,Kungälvskommun",129,4,1192,2900000
 1-Nov-2019,Topasvägen 13,"Kode,Kungälvskommun",130+95,6,782,4500000
 30-Oct-2019,Råckeröd 180,"Kärna,Kungälvskommun",90,NaN,3183,1000000
@@ -1642,10 +1642,10 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 27-Sep-2019,Topasvägen 11,"Bohuslän,Kungälvskommun",103+95,6,742,3750000
 26-Sep-2019,Mantalsgatan 17,"Ytterby,Kungälvskommun",189+23,6,986,4800000
 26-Sep-2019,Grindvakten 25,"Grinden,Kungälvskommun",127,3,473,3850000
-25-Sep-2019,Solbräcke 1:47,"Kungälv,Kungälvskommun",,NaN,708,1000000
-25-Sep-2019,Solbräcke 1:46,"Kungälv,Kungälvskommun",,NaN,784,1000000
-25-Sep-2019,Solbräcke 1:45,"Kungälv,Kungälvskommun",,NaN,976,1000000
-25-Sep-2019,Solbräcke 1:44,"Bohuslän,Kungälvskommun",,NaN,882,1000000
+25-Sep-2019,Solbräcke 1:47,"Kungälv,Kungälvskommun",NaN,NaN,708,1000000
+25-Sep-2019,Solbräcke 1:46,"Kungälv,Kungälvskommun",NaN,NaN,784,1000000
+25-Sep-2019,Solbräcke 1:45,"Kungälv,Kungälvskommun",NaN,NaN,976,1000000
+25-Sep-2019,Solbräcke 1:44,"Bohuslän,Kungälvskommun",NaN,NaN,882,1000000
 25-Sep-2019,Lundby 340,"Kungälv-Kareby,Kungälvskommun",147,6,1648,4100000
 23-Sep-2019,Teggatan 8,"Fridhemskullen,Kungälvskommun",177+21,5,759,5900000
 19-Sep-2019,Skårsäng 39,"Kärna,Kungälvskommun",114,5,473,4400000
@@ -1812,7 +1812,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 21-Jun-2021,Ekliden 8,"Centralt,Kungälvskommun",67+66,3,1041,5000000
 19-Jun-2021,Vedhall 120,"Kärna,Kungälvskommun",88+49,4,2105,6500000
 18-Jun-2021,Toreby 200,"Bohuslän,Kungälvskommun",103+130,4,2391,4100000
-18-Jun-2021,Holm 285,"Kärna,Kungälvskommun",,rum,1091,4300000
+18-Jun-2021,Holm 285,"Kärna,Kungälvskommun",NaN,6,1091,4300000
 17-Jun-2021,Häljeröd 300,"Kungälv-Romelanda,Kungälvskommun",223+25,7,3547,6900000
 15-Jun-2021,Konvaljgatan 10,"Ytterby,Kungälvskommun",115,4,634,5050000
 15-Jun-2021,Skutviksvägen 3,"Marstrand-Instön,Kungälvskommun",42+3,3,1223,4750000
@@ -1893,7 +1893,7 @@ Date of sale (dd-m-yyyy),Address,Location,Area (m^2),No. of rooms,Area of the pl
 26-May-2016,Stinneröd 260,"Bohuslän,Kungälvskommun",65+65,4,1734,1300000
 26-May-2016,Onyxvägen 22,"Kodelantligt,Kungälvskommun",123,5,566,3210000
 26-May-2016,Hällristningsgatan 26,"YtterbyStället,Kungälvskommun",75,3,404,2995000
-23-May-2016,Duvesjön 371,"Romelanda-Duvesjön,Kungälvskommun",,rum,1808,3600000
+23-May-2016,Duvesjön 371,"Romelanda-Duvesjön,Kungälvskommun",NaN,4,1808,3600000
 23-May-2016,Mjölnarvägen 16,"Romelanda,Kungälvskommun",121+47,5,831,2385000
 21-May-2016,Lerskärsvägen 63,"Tjuvkil,Kungälvskommun",110+10,3,884,3875000
 21-May-2016,Briljantvägen 36,"Kode,Kungälvskommun",150,5,462,4100000
