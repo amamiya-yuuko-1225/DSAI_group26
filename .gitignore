@@ -1,2 +1,4 @@
 /.venv
 /venv
+*.tplx
+/lab2/my_template
